@@ -1,0 +1,5 @@
+Regressor,Score,Params,Leaderboard
+SVR,10.103415022016922,"{'reg__C': 20, 'reg__epsilon': 5, 'reg__gamma': 'scale', 'reg__kernel': 'rbf'}",9.311
+Ridge,10.261363534316171,"{'poly__degree': 2, 'reg__alpha': 1000, 'rfe__n_features_to_select': np.float64(0.28)}",9.578
+LinearRegression,10.385504393006094,"{'poly__degree': 2, 'rfe__n_features_to_select': np.float64(0.1)}",9.689
+RandomForestRegressor,10.338702224820874,"{'reg__max_depth': 50, 'reg__max_features': 'sqrt', 'reg__min_samples_leaf': 4, 'reg__min_samples_split': 2}",9.647

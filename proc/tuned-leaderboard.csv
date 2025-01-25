@@ -1,0 +1,5 @@
+Regressor,Leaderboard
+LinearRegression,9.689
+Ridge,9.578
+RandomForestRegressor,9.647
+SVR,9.311
