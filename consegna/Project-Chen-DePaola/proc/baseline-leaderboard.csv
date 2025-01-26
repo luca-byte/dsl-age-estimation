@@ -1,0 +1,11 @@
+Regressor,Leaderboard
+LinearRegression,9.728
+Lasso,10.053
+Ridge,9.880
+RandomForestRegressor,9.820
+SVR,11.931
+DecisionTreeRegressor,14.647
+KNeighborsRegressor,12.125
+MLPRegressor,10.819
+Mean,11.960
+Median,12.866
